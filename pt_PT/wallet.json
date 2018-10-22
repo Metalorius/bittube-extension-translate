@@ -91,6 +91,6 @@
    "priority": "Prioridade",
    "confirm": "Confirmação",
    "cancel": "Cancelar",
-   "rawTxData": "Dados crús da transacção a ser submetido ao sistema",
-   "rawTxDataText": "Depois de pressionar 'Confirmar', irá haver uma tentativa de submeter esta tx para um Nó Bittube. O Nó vai fazer verificações adicionais à transacção(e.x., se a comissão de mineração é suficiente), e se passar, a transacção irá ser submetida à rede Bittube esperando pelas confirmações dos mineradores."
+   "rawTxData": "Dados crús da transacção a serem submetidos ao sistema",
+   "rawTxDataText": "Depois de pressionar 'Confirmar', irá haver uma tentativa de submeter esta transacção para um Nó Bittube. O Nó vai fazer verificações adicionais à transacção(e.x., se a comissão de mineração é suficiente), e se passar, a transacção irá ser submetida à rede Bittube esperando pelas confirmações dos mineradores."
 }
